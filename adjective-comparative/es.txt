@@ -1,0 +1,5 @@
+bueno	mejor
+malo	peor
+grande	mayor
+viejo	mayor
+joven	menor

@@ -1,0 +1,10 @@
+grande	maggiore
+buono	migliore
+cattivo	peggiore
+piccolo	minore
+alto	superiore
+basso	inferiore
+bene	meglio
+male	peggio
+poco	meno
+molto	più
