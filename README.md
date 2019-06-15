@@ -14,11 +14,13 @@ If you found this corpus useful, please cite the following paper:
 Tomáš Brychcín, Stephen Taylor, Lukáš Svoboda. **"Cross-lingual Word Analogies using Linear Transformations between Semantic Spaces."** *Expert Systems with Applications*, 2019.
 
     @article{BRYCHCIN2019,
-      title = "Cross-lingual Word Analogies using Linear Transformations between Semantic Spaces",
-      journal = "Expert Systems with Applications",
-      year = "2019",
-      issn = "0957-4174",
-      doi = "https://doi.org/10.1016/j.eswa.2019.06.021",
-      url = "http://www.sciencedirect.com/science/article/pii/S0957417419304191",
-      author = "Tom\'{a}\v{s} Brychc\'{i}n and Stephen Taylor and Luk\'{a}\v{s} Svoboda",
+        title = "Cross-lingual word analogies using linear transformations between semantic spaces",
+        journal = "Expert Systems with Applications",
+        volume = "135",
+        pages = "287 -- 295",
+        year = "2019",
+        issn = "0957-4174",
+        doi = "https://doi.org/10.1016/j.eswa.2019.06.021",
+        url = "http://www.sciencedirect.com/science/article/pii/S0957417419304191",
+        author = "Tom\'{a}\v{s} Brychc\'{i}n and Stephen Taylor and Luk\'{a}\v{s} Svoboda",
     }
